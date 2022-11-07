@@ -1,1 +1,1 @@
-FROM eclipse/ditto-connectivity
+FROM eclipse/ditto-connectivity:3.0.0
